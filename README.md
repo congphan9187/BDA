@@ -74,7 +74,7 @@
 
   - ARIMAX
     <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1c5b49ca-6471-40fc-94c1-e04c5970c0a0" />
-
+    
   - XGBoost
     <img width="757" height="287" alt="image" src="https://github.com/user-attachments/assets/ca2fa40c-ece2-4c34-a309-73e064adca10" />
 

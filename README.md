@@ -76,7 +76,7 @@
     <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1c5b49ca-6471-40fc-94c1-e04c5970c0a0" />
     
   - XGBoost
-    <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/ae3105e6-ef61-4a55-a38b-7f39444b2487" />
+    <img width="986" height="351" alt="image" src="https://github.com/user-attachments/assets/f38de120-4f30-4d5b-8a28-4036bfc3bdd0" />
 
   - LSTM
     <img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/1a3d65e9-e177-4b6d-ac34-e242b729d613" />

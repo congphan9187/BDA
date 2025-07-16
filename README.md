@@ -89,6 +89,7 @@
 
 ## 5.3 Kết luận
 Dự án so sánh các mô hình dự báo giá Bitcoin ngắn hạn bao gồm ARIMA, ARIMAX, XGBoost, LSTM, GRU và Transformer. Kết quả cho thấy:
+
   🔴 ARIMA/ARIMAX: Sai số rất lớn, R² âm → Dự báo kém, không phù hợp với dữ liệu biến động cao như giá Bitcoin.
   
   🟠 XGBoost: Cải thiện nhẹ nhưng vẫn không nắm bắt được tính chuỗi → Dự báo gần như phẳng, R² âm.
@@ -96,5 +97,6 @@ Dự án so sánh các mô hình dự báo giá Bitcoin ngắn hạn bao gồm A
   🟡 Transformer: Dự đoán tốt hơn, nắm bắt được xu hướng nhưng đánh giá thấp các đỉnh lớn → Cần tối ưu thêm.
   
   🟢 LSTM/GRU: Hiệu quả nhất với sai số thấp, R² trên 0.97 → Dự đoán sát thực tế, phù hợp cho dữ liệu chuỗi phức tạp.
+  
   
 👉 Các mô hình deep learning, đặc biệt là LSTM và GRU, là lựa chọn phù hợp để mô phỏng tính phi tuyến và biến động mạnh của thị trường tiền mã hoá.

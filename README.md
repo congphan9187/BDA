@@ -17,14 +17,14 @@
 |🌱  Nguyễn Đỗ Đức Minh | 22520872 | Team member   | nddminh2021@gmail.com          |
 
 # 3. Nội dung đồ án
-- Tìm hiểu và thực nghiệm về các mô hình học máy, học sâu trong phân tích và dự báo dữ liệu chuỗi thời gian về giá bitcoin
+- Tìm hiểu và thực nghiệm về các mô hình học máy, học sâu trong phân tích và dự báo dữ liệu chuỗi thời gian về giá Bitcoin.
   - ARIMA
   - ARIMAX
   - XGBoost
   - LSTM
   - GRU
   - Transformer
-- Dataset thực nghiệm được crawl về từ API của Yahoo Finance
+- Dataset thực nghiệm được crawl về từ API của Yahoo Finance.
 
 # 4. Phân tích khám phá dữ liệu (EDA)
 <img width="876" height="547" alt="image" src="https://github.com/user-attachments/assets/aa02c862-a122-4e98-bed6-0365da62394c" />

@@ -35,10 +35,10 @@
 # 5. Kết quả thực nghiệm
 ## 5.1 Đánh giá kết quả của các mô hình trên tập test
 
-🔎 Bảng tổng hợp kết quả đánh giá
+🔎 **Bảng tổng hợp kết quả đánh giá**
 <img width="784" height="170" alt="image" src="https://github.com/user-attachments/assets/a78ea7b1-b5d2-43ad-ba20-ae365b34696b" />
 
-📈 Trực quan hoá kết quả dự báo của các mô hình trên tập test
+📈 **Trực quan hoá kết quả dự báo của các mô hình trên tập test**
   - ARIMA
     <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/cbc20e02-970a-46f5-a41d-bcb0b9dca398" />
 
@@ -57,7 +57,7 @@
   - Transformer
     <img width="1715" height="491" alt="image" src="https://github.com/user-attachments/assets/02c0a748-c4a6-468d-b117-92f0f6401a0c" />
     
-📝 Nhận xét
+📝 **Nhận xét**
 - Kết quả cho thấy sự khác biệt đáng kể trong hiệu suất của các mô hình. Mô hình LSTM và GRU đạt được các chỉ số lỗi thấp nhất và giá trị R² cao nhất, thể hiện độ chính xác dự đoán vượt trội. Ngược lại, ARIMA và ARIMAX có sai số cao nhất và giá trị R² âm, cho thấy độ phù hợp kém. XGBoost và Transformer nằm ở mức trung bình, trong đó XGBoost hoạt động kém, còn Transformer thể hiện khả năng dự đoán vừa phải.
 
 - ARIMA và ARIMAX là hai mô hình yếu nhất, với RMSE trên 37.000, MAE trên 31.900 và MAPE khoảng 41,7%. Giá trị R² âm (-2,845 và -2,86) cho thấy chúng không thể giải thích phương sai của giá Bitcoin, thậm chí còn kém hơn một mô hình đơn giản sử dụng trung bình. Dựa vào biểu đồ dự đoán trên tập test của ARIMA và ARIMAX cũng xác nhận điều này, khi các đường dự đoán gần như phẳng ở mức 40.000 và 30.000, trong khi dữ liệu thực tăng mạnh lên 90.000 vào cuối năm 2024. Điều này cho thấy mô hình tuyến tính truyền thống khó có thể mô phỏng được xu hướng phi tuyến, biến động cao của giá Bitcoin.

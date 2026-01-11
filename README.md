@@ -12,7 +12,7 @@
 | Họ và tên          | MSSV     | Vai trò     | Liên hệ                     |
 |--------------------|----------|-------------|-----------------------------|
 |🌱  Trần Vũ Bão   | 22520124 | Team member | tranvubao2004@gmail.com          |
-|🌱  Phan Thành Công       | 22520170 | Team member | phanthanhcong982004@gmail.com          |
+|🌱  Phan Thành Công       | 22520170 | Team member | ptcong.data@gmail.com          |
 |🌱  Phan Thị Thủy Hiền | 22520423 | Team member | thuyhienphanthi2004@gmail.com |
 |🌱  Nguyễn Đỗ Đức Minh | 22520872 | Team member   | nddminh2021@gmail.com          |
 
